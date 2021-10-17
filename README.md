@@ -28,3 +28,7 @@ Wigle dapat digunakan untuk memperoleh data mengenai jaringan nirkabel diseluruh
 7. [Osintgram](https://github.com/Datalux/Osintgram)
 
 Osintgram dapat membantu kita dalam melakukan osint menggunakan platform Instagram.
+
+Kontributor
+@Juennie
+@Nadyamilona
