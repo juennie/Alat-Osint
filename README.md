@@ -17,6 +17,18 @@ Epios dapat digunakan untuk mendapatkan informasi terkait akun Gmail dan nomor p
 
 Twint dapat digunakan untuk OSINT twitter.
 
+5. [Toutatis](https://github.com/megadose/toutatis)
+
+Toutatis dapat digunakan untuk mengekstrak informasi dari sebuah akun Instagram.
+
+6. [Wigle](https://wigle.net/)
+
+Wigle dapat digunakan untuk memperoleh data mengenai jaringan nirkabel diseluruh dunia.
+
+7. [Osintgram](https://github.com/Datalux/Osintgram)
+
+Osintgram dapat membantu kita dalam melakukan osint menggunakan platform Instagram.
 
 Kontributor: 
 @juennie
+@Nadyamilona
