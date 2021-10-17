@@ -16,3 +16,7 @@ Epios dapat digunakan untuk mendapatkan informasi terkait akun Gmail dan nomor p
 4. [Twint](https://github.com/twintproject/twint)
 
 Twint dapat digunakan untuk OSINT twitter.
+
+
+Kontributor: 
+@juennie
